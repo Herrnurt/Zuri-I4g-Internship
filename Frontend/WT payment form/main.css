@@ -1,0 +1,59 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #e79ae7;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+.wrapper{ background-color:#fff;
+	width: 500px;
+	padding: 25px;
+	margin: 25px auto 0;
+
+}
+
+.wrapper h2{
+	background-color: white;
+	color: blue;
+	font-size: 20px;
+	padding: 10px;
+	margin-bottom: 20px;
+	text-align: center;
+	border: 1px dotted #333;
+}
+
+h4 {
+	padding-bottom: 5px;
+	color: blue;
+	
+}
+
+.radio{
+	margin-bottom: 16px;
+}
+
+.cvc{
+	margin-bottom: 36px;
+}
+
+.input-group{
+margin-bottom: 10px;
+width: 100px;
+display: flex;
+position: relative;
+padding: 5px 0;
+flex-direction: row;
+
+}
+
+
+
+
+.submit-button{
+	text-align: center;
+	{
+
