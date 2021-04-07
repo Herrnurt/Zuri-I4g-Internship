@@ -1,0 +1,71 @@
+body p {
+    margin:0;
+    padding:0;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    width: 20%;
+    margin-left: auto;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    padding: 2em;
+}
+a:hover{
+text-decoration: underline;
+}
+
+nav img {
+    height: 20px;
+}
+
+main{
+    width: 50%;
+    margin: 6.9em auto;
+    text-align: center;
+}
+
+input {
+    width: 80%;
+    padding: 1em;
+    border-radius: 30px;
+    border: 0.05px solid grey;
+}
+
+.button-container{
+    margin-top: 1em;
+}
+
+.button-container button{
+    padding: 1em;
+    border:none;
+}
+
+footer {
+    
+    background-color:#DCDCDC;
+
+}
+
+.footer-top {
+    padding: 1em;
+}
+
+.footer-bottom{
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid grey;
+}
+
+.left{
+    margin-right: 1em;
+}
+
+.right{
+    margin-right: 1em;
+}
