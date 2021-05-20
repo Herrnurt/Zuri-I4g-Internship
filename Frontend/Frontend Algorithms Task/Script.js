@@ -48,3 +48,4 @@ function checkYuGiOh(n) {
     }
     return myArr;
   }
+console.log(checkYuGiOh(8))
